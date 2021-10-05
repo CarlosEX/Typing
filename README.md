@@ -285,10 +285,5 @@ Veja a planilha que criei para minha sobrinha aprender digitar de forma fácil e
 
 Acesse meu site: https://carlosantoniocison.editorx.io/portifolio
 
-Me sigam no MIX: carloscison · Posts (mix.com)
-
-Post no meu blog: Carlos Antonio (editorx.io)
-
-
 
 Carlos Antonio.
