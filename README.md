@@ -17,7 +17,7 @@ Baixar manuel em PDF [AQUI](https://f07197d6-09a9-46b7-9870-b8bf9a9db2c9.filesus
 
 ## Sistema para treinamento - Instalação e Download
 
-Download do sitema [Baixar](https://f07197d6-09a9-46b7-9870-b8bf9a9db2c9.filesusr.com/archives/b3586d_b01216c6615a41fba235f465561bc589.zip?dn=DIO.Typing.zip)
+Download do sistema [Baixar](https://f07197d6-09a9-46b7-9870-b8bf9a9db2c9.filesusr.com/archives/b3586d_b01216c6615a41fba235f465561bc589.zip?dn=DIO.Typing.zip)
 
 Nessa etapa do treinamento, vou demonstrar como você baixar e instalar a ferreamente desenvolvida para auxiliar você em sua jornada de aprendizado.
 
