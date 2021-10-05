@@ -13,7 +13,7 @@ DIOTyping é um sistema simples para treinar a digitação com destaque de erros
 
 ![E-book Typing](https://static.wixstatic.com/media/b3586d_ab0a2d055afb427d8efe223af0171741~mv2.png/v1/fill/w_740,h_311,al_c,q_95/b3586d_ab0a2d055afb427d8efe223af0171741~mv2.webp)
 
-Baixar manuel em PDF [AQUI](https://carlosantoniocison.editorx.io/portifolio/diotyping).
+Baixar manuel em PDF [AQUI](https://f07197d6-09a9-46b7-9870-b8bf9a9db2c9.filesusr.com/ugd/b3586d_4e0618bb731049b1b83c95fe4f19e817.pdf).
 
 ## Sistema para treinamento - Instalação e Download
 
