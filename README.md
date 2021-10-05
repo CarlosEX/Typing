@@ -2,12 +2,7 @@
 
 No quesito produtividade, digitar sem olhar para o teclado, sabendo o posicionamento correto das mãos e as associações de teclas e dados, é algo que devemos levar em consideração para aprendermos, principalmente no momento em que estamos vivendo.
 
-Ferramenta desktop para Typing.
 DIOTyping é um sistema simples para treinar a digitação com destaque de erros e acertos, gráfico e métricas simples. Você pode trabalhar com textos livres ou criar combinações de teclas.
-
-Essas opções estão presentes no menu arquivo.
-
-![Tela sistem Typing](https://scontent.fcau11-2.fna.fbcdn.net/v/t39.30808-6/244358800_588525512343480_8832764791900903980_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=g8o8yd-7ojQAX_r8n1x&_nc_ht=scontent.fcau11-2.fna&oh=ea5fcd43f0b2884c6143f8ed54d30909&oe=615CF10A)
 
 ## Manual
 
@@ -20,8 +15,45 @@ Essas opções estão presentes no menu arquivo.
 
 Baixar manuel em PDF [AQUI](https://carlosantoniocison.editorx.io/portifolio/diotyping).
 
+## Sistema para treinamento - Instalação e Download
+
+Nessa etapa do treinamento, vou demonstrar como você baixar e instalar a ferreamente desenvolvida para auxiliar você em sua jornada de aprendizado.
+
+O sistema foi desenvolvido para rodar apenas em Windows, estou utilizando um VM com o Windows 10 para realizar o processo.
+
+![Captura de tela de 2021-10-04 19-59-43](https://user-images.githubusercontent.com/33513870/135941137-21db018d-2378-4919-958b-3842ffacf71f.png)
+
+As informações e links para realizar o procedimento estão nesse repositório
+
+![Captura de tela de 2021-10-04 20-43-09](https://user-images.githubusercontent.com/33513870/135941271-d69bbb53-7df2-4f51-a2a7-1758f35a59b2.png)
+
+Após baixar o arquivo ZIP, realize a extração para o repositório desejado, no meu caso, deixei no repositório atual
+![Captura de tela de 2021-10-04 20-47-55](https://user-images.githubusercontent.com/33513870/135941418-1ecc9905-3681-40c4-9810-368abb3b7440.png)
+![Captura de tela de 2021-10-04 20-48-14](https://user-images.githubusercontent.com/33513870/135941522-ccebee23-4294-4c61-be3c-9a3e0ea6ef7a.png)
+![Captura de tela de 2021-10-04 20-48-14](https://user-images.githubusercontent.com/33513870/135941716-07a6796f-b92d-4b14-8e87-05fb9ed57a59.png)
+
+Com os arquivos extraídos, acesse a pasta e em seguida clique duas vezes no arquivo de instalação "imagem de um disco"
+Com isso feito, ele vai entrar no processo de instalação
+
+![Captura de tela de 2021-10-04 20-50-21](https://user-images.githubusercontent.com/33513870/135941659-377ef56e-898e-44cc-bb06-00263203e7fe.png)
+Durante o processe de instalação, vai abrir um tela semelhante a essa, informando alguns avisos de segurança. Clique em mais informações 
+![Captura de tela de 2021-10-04 20-49-50](https://user-images.githubusercontent.com/33513870/135941887-6c57d0fb-c655-4b59-8b06-4be1323edd5b.png)
+
+E em seguida, clique em executar assim mesmo, pois é um arquivo conviável
+![Captura de tela de 2021-10-04 20-49-54](https://user-images.githubusercontent.com/33513870/135941877-12f069b5-6fca-4775-a1c4-0c024d9b4b68.png)
+
+
+
+
+
+
+
 
 ## Typing!
+
+Essas opções estão presentes no menu arquivo.
+
+![Tela sistem Typing](https://scontent.fcau11-2.fna.fbcdn.net/v/t39.30808-6/244358800_588525512343480_8832764791900903980_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=g8o8yd-7ojQAX_r8n1x&_nc_ht=scontent.fcau11-2.fna&oh=ea5fcd43f0b2884c6143f8ed54d30909&oe=615CF10A)
 
 Você digita rápido e sem olhar para o teclado?
 
