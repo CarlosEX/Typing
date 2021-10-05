@@ -40,15 +40,35 @@ Durante o processe de instalação, vai abrir um tela semelhante a essa, informa
 
 ![Captura de tela de 2021-10-04 20-49-50](https://user-images.githubusercontent.com/33513870/135941887-6c57d0fb-c655-4b59-8b06-4be1323edd5b.png)
 
-E em seguida, clique em executar assim mesmo, pois é um arquivo conviável
+E em seguida, clique em **executar assim mesmo**, pois é um arquivo conviável
 
 ![Captura de tela de 2021-10-04 20-49-54](https://user-images.githubusercontent.com/33513870/135941877-12f069b5-6fca-4775-a1c4-0c024d9b4b68.png)
 
+![Captura de tela de 2021-10-04 20-50-24](https://user-images.githubusercontent.com/33513870/135942149-b7d0b537-7c66-4f01-8a18-5d54adbfe46c.png)
+![Captura de tela de 2021-10-04 20-50-49](https://user-images.githubusercontent.com/33513870/135942166-4a5038a6-600d-45f4-a7d6-934a3962613f.png)
+
+Com esse processo concluído, o sistema será aberto na barra de tarefas.
+
+![Captura de tela de 2021-10-04 20-53-07](https://user-images.githubusercontent.com/33513870/135942210-7f1db8b3-6d6f-4e67-b753-64618d9277d0.png)
+
+E também, será criado um ícone no menu iniciar
+
+![Captura de tela de 2021-10-04 20-53-22](https://user-images.githubusercontent.com/33513870/135942256-7b964fa5-d691-4505-8009-51c6bf939567.png)
 
 
+Agora é só começar a usar, por padrão ele vem com um texto base. 
+Na parte inferior, temos um campo onde podemos digitar os caracteres, e também uma barra de progresso com o total de caracteres, erros e acertos, além dele agrupar todos os caracteres que foram digitados de forma errada.
 
+![Captura de tela de 2021-10-04 20-55-35](https://user-images.githubusercontent.com/33513870/135942414-0ab3dc17-fe0c-4105-9790-9612b696c714.png)
 
+No menu superior, você tem duas opções de exércicios, uma para textos livres, e outra para combinações de teclas.
 
+![Captura de tela de 2021-10-04 20-56-08](https://user-images.githubusercontent.com/33513870/135942475-ac128d83-18ed-4377-8180-aacf29358bbe.png)
+![Captura de tela de 2021-10-04 20-55-54](https://user-images.githubusercontent.com/33513870/135942484-043f49b2-60ee-4295-bbd9-a7b41b749d3b.png)
+![Captura de tela de 2021-10-04 20-55-44](https://user-images.githubusercontent.com/33513870/135942501-8de3e2c3-db38-493a-8f43-f5a0a1a61f69.png)
+![Captura de tela de 2021-10-04 20-57-05](https://user-images.githubusercontent.com/33513870/135942517-e9179d2e-426b-4601-8474-6a4ab0eff246.png)
+
+É muito simples e intuitivo.
 
 
 ## Typing!
