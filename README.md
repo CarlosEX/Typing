@@ -30,16 +30,18 @@ As informações e links para realizar o procedimento estão nesse repositório
 Após baixar o arquivo ZIP, realize a extração para o repositório desejado, no meu caso, deixei no repositório atual
 ![Captura de tela de 2021-10-04 20-47-55](https://user-images.githubusercontent.com/33513870/135941418-1ecc9905-3681-40c4-9810-368abb3b7440.png)
 ![Captura de tela de 2021-10-04 20-48-14](https://user-images.githubusercontent.com/33513870/135941522-ccebee23-4294-4c61-be3c-9a3e0ea6ef7a.png)
-![Captura de tela de 2021-10-04 20-48-14](https://user-images.githubusercontent.com/33513870/135941716-07a6796f-b92d-4b14-8e87-05fb9ed57a59.png)
 
 Com os arquivos extraídos, acesse a pasta e em seguida clique duas vezes no arquivo de instalação "imagem de um disco"
 Com isso feito, ele vai entrar no processo de instalação
 
 ![Captura de tela de 2021-10-04 20-50-21](https://user-images.githubusercontent.com/33513870/135941659-377ef56e-898e-44cc-bb06-00263203e7fe.png)
+
 Durante o processe de instalação, vai abrir um tela semelhante a essa, informando alguns avisos de segurança. Clique em mais informações 
+
 ![Captura de tela de 2021-10-04 20-49-50](https://user-images.githubusercontent.com/33513870/135941887-6c57d0fb-c655-4b59-8b06-4be1323edd5b.png)
 
 E em seguida, clique em executar assim mesmo, pois é um arquivo conviável
+
 ![Captura de tela de 2021-10-04 20-49-54](https://user-images.githubusercontent.com/33513870/135941877-12f069b5-6fca-4775-a1c4-0c024d9b4b68.png)
 
 
