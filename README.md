@@ -113,7 +113,6 @@ Por isso, recomendo fortemente que siga a risca essas três dicas, que tenho abs
 
 ## Memorização e Associação
 
-![E-book Typing]()
 ![E-book Typing](https://static.wixstatic.com/media/b3586d_9c2828c147af43f28bff34532f89182f~mv2.png/v1/fill/w_740,h_378,al_c,q_95/b3586d_9c2828c147af43f28bff34532f89182f~mv2.webp)
 
 **Memorização:** É o processo de você internalizar os padrões. Estrutura do teclado, divisões e conjuntos de teclas, posicionamento das mãos/dedos e etc.
@@ -194,3 +193,102 @@ Você vai ter que praticar muito a sua memória muscular nessa região para cons
 
 ![E-book Typing](https://user-images.githubusercontent.com/33513870/135734734-a2aed55a-a33d-4c3e-b2a3-82ce8728a61f.png)
 
+# Domine o Teclado
+
+Agora vamos entrar em uma área muito importante, que sem dúvida você precisa entender e praticar constantemente esses ensinamentos.
+
+Semelhante as estruturas do teclado que vimos anteriormente, também existe as regiões do teclado que estão associadas a regiões das nossas mãos.
+
+Isso mesmo, existem regiões no teclado que só podem ser acessadas com o dedo indicador direito, já outras apenas com o dedo anelar esquerdo, e assim sucessivamente.
+
+Saber dessas separações, ajuda a criarmos a memória muscular correta, e inconscientemente nosso cérebro irá memorizar cada uma dessas regiões e com prática e persistência, você em breve estará digitando muito mais rápido e de forma correta.
+
+## Região Direita e Esquerda do teclado.
+
+![image](https://user-images.githubusercontent.com/33513870/135942808-3c0e5c89-440f-4085-98e2-4ed9720da4e6.png)
+
+**Direita e Esquerda:** Isso mesmo, na ilustração acima, fica fácil identificarmos essa divisão de responsabilidade.
+
+Se dividirmos o teclado dessa forma, fica mais fácil focarmos a nossa atenção em parte mais importantes.
+
+A regra de ouro é que uma mão não deve invadir a região da outra, apenas em casos específicos que aja a necessidade de uma combinação de tecla específica.
+
+**Entry Point**
+
+![image](https://user-images.githubusercontent.com/33513870/135942855-de854e53-2dff-432e-aeff-b4d37afc9ae7.png)
+
+**Entry Point:** Esse é o principio de todo o treinamento!
+
+Todo teclado, possui duas saliências nas teclas F e J, e elas tem isso não é por acaso, mas sim, foram criadas exclusivamente para servir de referência na hora de posicionar a mão corretamente no teclado.
+
+Conforme na ilustração acima, essa é a posição base que sua mão deve repousar no teclado, e as teclas F e J são as principais referências.
+
+**Polegar**
+
+![image](https://user-images.githubusercontent.com/33513870/135942887-04925093-da13-4a61-85da-49e045568e54.png)
+
+**Polegar:** Esses dedos estão associados a tecla de backspace "tecla de espaço" e uma coisa que você deve saber aqui, é que não importa qual lado da mão você irá utilizar.
+
+Geralmente a mão predominante será a que mais vai utilizar o polegar, mas você pode utilizar qualquer um.
+
+Como recomendação: pratique com os dois.
+
+
+## Indicador
+
+![image](https://user-images.githubusercontent.com/33513870/135942945-ec7b28a2-9022-4478-b4ff-9f218aeb285f.png)
+
+**Indicador:** Na ilustração acima, fica fácil identificar quais teclas estão associadas a quais dedos.
+
+Embora pareça algo difícil de aprender, com o tempo essa associação ficará tão natural que praticamente seu dedo vai se mover quase que imediatamente para a tecla desejada.
+
+
+## Dedo do Meio
+
+![image](https://user-images.githubusercontent.com/33513870/135942979-ee254ca8-4a9b-4d7c-94d4-03a6bd17e916.png)
+
+**Dedo do meio:** Esse dedo, possui poucas teclas associadas a eles.
+
+Desenvolva exercícios exclusivos para memorizar a associação com base na responsabilidade de cada dedo e seus respectivos conjuntos de teclas.
+
+**Anelar**
+
+![image](https://user-images.githubusercontent.com/33513870/135943014-a3908b2c-682b-42ed-9c3b-432b7ddd4482.png)
+
+**Anelar:** Esse dedo, possui poucas teclas associadas a eles, semelhante o dedo do meio.
+
+Desenvolva exercícios exclusivos para memorizar a associação com base na responsabilidade de cada dedo e seus respectivos conjuntos de teclas.
+
+**Mínimo**
+
+![image](https://user-images.githubusercontent.com/33513870/135943045-509a6d97-cd0f-4a5c-897f-bcf0bf467fdb.png)
+
+**Mínimo:** Esse dedo, possui muitas teclas associadas a eles, semelhante o dedo indicador.
+
+Desenvolva exercícios exclusivos para memorizar a associação com base na responsabilidade de cada dedo e seus respectivos conjuntos de teclas.
+
+**Conclusão**
+
+Muito obrigado por ter chegado até aqui.
+
+Tenho toda certeza, se você colocar uma boa dose de esforço e dedicação, em questão de alguns meses você irá chegar em um novo patamar profissional no que tange produtividade em digitação.
+
+Desejo tudo de bom, para você e sua família.
+
+
+
+Um forte abraço,
+
+
+Veja a planilha que criei para minha sobrinha aprender digitar de forma fácil e ilustrativa: [Typing - Digitação Podutiva (vimeo.com)](https://vimeo.com/manage/videos/505852291)
+
+
+Acesse meu site: https://carlosantoniocison.editorx.io/portifolio
+
+Me sigam no MIX: carloscison · Posts (mix.com)
+
+Post no meu blog: Carlos Antonio (editorx.io)
+
+
+
+Carlos Antonio.
