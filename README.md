@@ -9,16 +9,17 @@ Essas opções estão presentes no menu arquivo.
 
 ![Tela sistem Typing](https://scontent.fcau11-2.fna.fbcdn.net/v/t39.30808-6/244358800_588525512343480_8832764791900903980_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=g8o8yd-7ojQAX_r8n1x&_nc_ht=scontent.fcau11-2.fna&oh=ea5fcd43f0b2884c6143f8ed54d30909&oe=615CF10A)
 
-Você pode baixar esse sistema e instalar em sua máquina "windows" através desse link [AQUI](https://carlosantoniocison.editorx.io/portifolio/diotyping) além de ter acesso ao código fonte.
+## Manual
 
+É de grande importância que você leia esse manual, ante de iniciar os execícios. Entenda os fundamentos e boas práticas na hora de praticar a digitação de forma eficiente.
 
-E o segundo item é o mini livro que escrevi com todo carinho e dedicação para complementar esse artigo.
 
 ![E-book Typing](https://static.wixstatic.com/media/b3586d_db039e5d81664612a8e3a130f62b87d4~mv2.jpg/v1/fill/w_675,h_500,al_c,q_80,usm_0.66_1.00_0.01/b3586d_db039e5d81664612a8e3a130f62b87d4~mv2.webp)
 
 ![E-book Typing](https://static.wixstatic.com/media/b3586d_ab0a2d055afb427d8efe223af0171741~mv2.png/v1/fill/w_740,h_311,al_c,q_95/b3586d_ab0a2d055afb427d8efe223af0171741~mv2.webp)
 
-Você pode baixe ele através desse link [AQUI](https://carlosantoniocison.editorx.io/portifolio/diotyping).
+Baixar manuel em PDF [AQUI](https://carlosantoniocison.editorx.io/portifolio/diotyping).
+
 
 ## Typing!
 
